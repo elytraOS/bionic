@@ -2581,7 +2581,3 @@ cc_library {
         static_libs: ["libbase"],
     },
 }
-
-subdirs = [
-    "bionic/scudo",
-]
